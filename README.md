@@ -23,8 +23,8 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=akarshitgupta78&theme=radical&hide_border=true&border_radius=10" 
+  <img
+    src="https://streak-stats.demolab.com/?user=akarshitgupta78&theme=radical&hide_border=true"
     alt="GitHub Streak"
     height="180"
   />
