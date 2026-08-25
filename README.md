@@ -3,20 +3,30 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=39FF14&center=true&vCenter=true&width=700&height=55&lines=DSA+Learner;AI%2FML+Enthusiast;Backend+Developer"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=39FF14&center=true&vCenter=true&width=700&height=55&lines=DSA+Learner;Backend+Developer;AI%2FML+Enthusiast"
       alt="Typing SVG"
     />
   </a>
-
-
-
+  
 ---
 
 ## 🛠️ Languages • Frameworks • Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,javascript,html,css,github,vscode,sklearn&perline=10" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,spring,sklearn,mysql,git,github,idea,vscode&perline=15" />
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+
+| Project | Description | Tech Stack |
+|---|---|---|
+| **AI Resume Analyzer**|  An AI-powered application that analyzes resumes and provides ATS-based insights and personalized recommendations. |Python • NLP • ML • Streamlit |
+ <!--| 🔗 **Project 2** | Your project description | Java / Spring Boot |
+| 🔗 **Project 3** | Your project description | GenAI / RAG |
+| 🔗 **Project 4** | Your project description | C++ / DSA | -->
 
 ---
 
@@ -24,7 +34,7 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=akarshitgupta78&theme=radical&hide_border=true"
+    src="https://streak-stats.demolab.com?user=akarshitgupta78&theme=radical&hide_border=true&border_radius=10"
     alt="GitHub Streak"
     height="180"
   />
@@ -45,16 +55,7 @@
 
 ---
 
-<!-- ## 📌 Featured Projects
 
-> Add your best 3–6 projects here.
-
-| Project | Description | Tech Stack |
-|---|---|---|
-| 🔗 **Project 1** | Your project description | Python / AI / ML |
-| 🔗 **Project 2** | Your project description | Java / Spring Boot |
-| 🔗 **Project 3** | Your project description | GenAI / RAG |
-| 🔗 **Project 4** | Your project description | C++ / DSA | -->
 
 
 
