@@ -23,9 +23,9 @@
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| **AI Resume Analyzer**|  An AI-powered application that analyzes resumes and provides ATS-based insights and personalized recommendations. |Python • NLP • ML • Streamlit |
- <!--| 🔗 **Project 2** | Your project description | Java / Spring Boot |
-| 🔗 **Project 3** | Your project description | GenAI / RAG |
+| **HTTT Proxy Server** | Java 21 HTTP Proxy Server with Virtual Threads and a thread-safe LRU cache for high-concurrency, low-latency request handling.| Java 21, Virtual Threads, Socket I/O, LRU Cache |
+| **Resume Analyzer**|  An AI-powered application that analyzes resumes and provides ATS-based insights and personalized recommendations. |Python • NLP • ML • Streamlit |
+<!--| 🔗 **Project 3** | Your project description | GenAI / RAG |
 | 🔗 **Project 4** | Your project description | C++ / DSA | -->
 
 ---
