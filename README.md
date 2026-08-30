@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Akarshit Gupta! 👨‍💻</h1>
+ <h1 align="center">Hi, I'm Akarshit Gupta! 👨‍💻</h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -7,57 +7,102 @@
       alt="Typing SVG"
     />
   </a>
-  
----
-
-## 🛠️ Languages • Frameworks • Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,spring,sklearn,mysql,git,github,idea,vscode&perline=15" />
 </p>
 
 ---
 
+<img align="right" alt="Coding" width="320"
+src="portrait.svg" alt="Akarshit Gupta">
+
+### 👨‍💻 About Me
+* 🎓 B.Tech in CSE (AIML) at PSIT Kanpur
+* ☕ Specializing in Java and core Backend Engineering
+* 🧩 Actively sharpening problem-solving skills across Data Structures & Algorithms
+* 🤖 Experimenting with Machine Learning, Deep Learning, and NLP architectures
+* ⚙️ Focused on system design, internal mechanics, and real-world software architecture
+
+</br>
+
+---
+
+## 🛠️ Languages • Frameworks • Tools
+<div align="center">
+  
+|   **Category**   | **Technologies**    |
+| :--- | :--- |
+| **Language** | <img src="https://skillicons.dev/icons?i=a,cpp,c,html,javascript,a&theme=dark" />       |
+| **Backend Development**  | <img src="https://skillicons.dev/icons?i=a,java,spring,maven,postman,a&theme=dark" /> |
+| **AI & ML** | <img src="https://skillicons.dev/icons?i=a,python,sklearn,fastapi,tensorflow,a&theme=dark" /> |
+| **Devops & Databases** | <img src="https://skillicons.dev/icons?i=a,mysql,mongodb,postgres,docker,a&theme=dark" /> |
+| **Tools & Platforms** | <img src="https://skillicons.dev/icons?i=a,git,github,vscode,idea,a&theme=dark" /> |
+
+</div>
+
+---
+
 ## 🚀 Featured Projects
-
-
 | Project | Description | Tech Stack |
 |---|---|---|
 | **HTTT Proxy Server** | Java 21 HTTP Proxy Server with Virtual Threads and a thread-safe LRU cache for high-concurrency, low-latency request handling.| Java 21, Virtual Threads, Socket I/O, LRU Cache |
 | **Resume Analyzer**|  An AI-powered application that analyzes resumes and provides ATS-based insights and personalized recommendations. |Python • NLP • ML • Streamlit |
-<!--| 🔗 **Project 3** | Your project description | GenAI / RAG |
-| 🔗 **Project 4** | Your project description | C++ / DSA | -->
+
+---
+
+## 🎯 Current Focus
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>☕ Backend Engineering</h3>
+      <p>
+        Java • Spring Boot • REST APIs<br>
+        Databases • System Design • Microservices
+      </p>
+    </td>
+    <td align="center" width="50%">
+      <h3>🤖 AI / GenAI</h3>
+      <p>
+        Machine Learning • Deep Learning • NLP<br>
+        Generative AI • RAG • Agentic AI
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📊 GitHub Statistics
-
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=akarshitgupta78&theme=radical&hide_border=true&border_radius=10"
+    src="https://streak-stats.demolab.com?user=akarshitgupta78&theme=blue-green&hide_border=true&border_radius=10"
     alt="GitHub Streak"
+    height="180"
+  />
+  &nbsp;&nbsp;&nbsp;
+  <img
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=akarshitgupta78&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
+    alt="Top Languages"
     height="180"
   />
 </p>
 
 <p align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=akarshitgupta78&label=Profile%20Views&color=0e75b6&style=for-the-badge" 
-    alt="Profile Views" 
-  />
+  <a href="https://github.com/akarshitgupta78">
+    <img src="https://img.shields.io/github/followers/akarshitgupta78?label=Followers&style=for-the-badge&logo=github&color=181717" />
+  </a>
+  <a href="https://github.com/akarshitgupta78?tab=repositories">
+    <img src="https://img.shields.io/github/stars/akarshitgupta78?label=Stars&style=for-the-badge&logo=github&color=yellow" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=akarshitgupta78&label=Profile%20Views&style=for-the-badge&color=0e75b6" />
 </p>
+
+---
 
 ## 📊 Leetcode Statistics
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/akarshitgupta78?theme=dark&font=baloo&ext=contest" alt="LeetCode Stats" />
 </p>
  
-
 ---
-
-
-
-
 
 ## 🤝 Connect With Me
 
@@ -81,13 +126,10 @@
 
 </p>
 
-
-
-
 <p align="center">
-  <b>Thanks for visiting my profile! ⭐</b>
+  <i>Let's connect, build, learn and grow together.</i>
 </p>
 
 <p align="center">
-  <i>Let's connect, build, learn and grow together.</i>
+  <b>Thanks for visiting my profile! ⭐</b>
 </p>
