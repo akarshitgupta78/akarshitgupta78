@@ -1,4 +1,4 @@
- <h1 align="center">Hi, I'm Akarshit Gupta! 👨‍💻</h1>
+<h1 align="center">Hi, I'm Akarshit Gupta! 👨‍💻</h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -9,19 +9,33 @@
   </a>
 </p>
 
----
+<table>
+  <tr>
+    <td width="64%" valign="top">
+      <h3>👨‍💻 About Me</h3>
+      <ul>
+        <li>🎓 <b>B.Tech in CSE (AIML)</b> at PSIT Kanpur</li>
+        <li>☕ <b>Specializing in Java</b> and core Backend Engineering</li>
+        <li>🧩 <b>Actively sharpening</b> problem-solving skills across Data Structures & Algorithms</li>
+        <li>🤖 <b>Experimenting with</b> Machine Learning, Deep Learning, and NLP architectures</li>
+        <li>⚙️ <b>Focused on</b> system design, internal mechanics, and real-world software architecture</li>
+      </ul>
+    </td>
+    <td width="36%" align="center" valign="middle">
+      <img src="portrait.svg" alt="Akarshit Gupta" width="280" />
+    </td>
+  </tr>
+</table>
 
-<img align="right" alt="Coding" width="320"
-src="portrait.svg" alt="Akarshit Gupta">
-
-### 👨‍💻 About Me
-* 🎓 B.Tech in CSE (AIML) at PSIT Kanpur
-* ☕ Specializing in Java and core Backend Engineering
-* 🧩 Actively sharpening problem-solving skills across Data Structures & Algorithms
-* 🤖 Experimenting with Machine Learning, Deep Learning, and NLP architectures
-* ⚙️ Focused on system design, internal mechanics, and real-world software architecture
-
-</br>
+<p align="center">
+  <a href="https://github.com/akarshitgupta78">
+    <img src="https://img.shields.io/github/followers/akarshitgupta78?label=Followers&style=for-the-badge&logo=github&color=181717" />
+  </a>
+  <a href="https://github.com/akarshitgupta78?tab=repositories">
+    <img src="https://img.shields.io/github/stars/akarshitgupta78?label=Stars&style=for-the-badge&logo=github&color=yellow" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=akarshitgupta78&label=Profile%20Views&style=for-the-badge&color=0e75b6" />
+</p>
 
 ---
 
@@ -86,13 +100,10 @@ src="portrait.svg" alt="Akarshit Gupta">
 </p>
 
 <p align="center">
-  <a href="https://github.com/akarshitgupta78">
-    <img src="https://img.shields.io/github/followers/akarshitgupta78?label=Followers&style=for-the-badge&logo=github&color=181717" />
-  </a>
-  <a href="https://github.com/akarshitgupta78?tab=repositories">
-    <img src="https://img.shields.io/github/stars/akarshitgupta78?label=Stars&style=for-the-badge&logo=github&color=yellow" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=akarshitgupta78&label=Profile%20Views&style=for-the-badge&color=0e75b6" />
+  <img 
+    src="https://komarev.com/ghpvc/?username=akarshitgupta78&label=Profile%20Views&color=0e75b6&style=for-the-badge" 
+    alt="Profile Views" 
+  />
 </p>
 
 ---
