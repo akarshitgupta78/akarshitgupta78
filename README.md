@@ -37,11 +37,12 @@
   
 |   **Category**   | **Technologies**    |
 | :--- | :--- |
-| **Language** | <img src="https://skillicons.dev/icons?i=a,cpp,c,html,javascript,a&theme=dark" />       |
-| **Backend Development**  | <img src="https://skillicons.dev/icons?i=a,java,spring,maven,postman,a&theme=dark" /> |
-| **AI & ML** | <img src="https://skillicons.dev/icons?i=a,python,sklearn,fastapi,tensorflow,a&theme=dark" /> |
-| **Devops & Databases** | <img src="https://skillicons.dev/icons?i=a,mysql,mongodb,postgres,docker,a&theme=dark" /> |
-| **Tools & Platforms** | <img src="https://skillicons.dev/icons?i=a,git,github,vscode,idea,a&theme=dark" /> |
+| **Language** | <img src="https://skillicons.dev/icons?i=cpp,c,python,java,javascript&theme=dark" />       |
+| **Backend Development**  | <img src="https://skillicons.dev/icons?i=spring,fastapi,maven,postman&theme=dark" /> |
+| **AI & ML** | <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch&theme=dark" /> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark" /> |
+| **Tools & Platforms** | <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,docker&theme=dark" /> |
+
 
 </div>
 
@@ -107,7 +108,7 @@
 
 ## 📊 Leetcode Statistics
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/akarshitgupta78?theme=dark&font=baloo&ext=contest" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/akarshitgupta78?theme=dark" alt="LeetCode Stats" />
 </p>
  
 ---
