@@ -98,17 +98,25 @@
   <a href="https://github.com/akarshitgupta78">
     <img src="https://img.shields.io/github/followers/akarshitgupta78?label=Followers&style=for-the-badge&logo=github&color=181717" />
   </a>
-  <a href="https://github.com/akarshitgupta78?tab=repositories">
+  <!-- <a href="https://github.com/akarshitgupta78?tab=repositories">
     <img src="https://img.shields.io/github/stars/akarshitgupta78?label=Stars&style=for-the-badge&logo=github&color=yellow" />
-  </a>
+  </a> -->
   <img src="https://komarev.com/ghpvc/?username=akarshitgupta78&label=Profile%20Views&style=for-the-badge&color=0e75b6" />
 </p>
 
 ---
 
 ## 📊 Leetcode Statistics
+   
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/akarshitgupta78?theme=dark" alt="LeetCode Stats" />
+  <strong>🏆 800+ Problems Solved &nbsp; | &nbsp; ⭐ 1600+ Contest Rating</strong>
+</p>
+
+<p align="center">
+  <img 
+    src="https://leetcard.jacoblin.cool/akarshitgupta78?theme=dark" 
+    alt="LeetCode Stats"
+  />
 </p>
  
 ---
