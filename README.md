@@ -133,9 +133,9 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<!-- <a href="https://codolio.com/profile/akarshitgupta78" target="_blank">
+<a href="https://codolio.com/profile/akarshitgupta78" target="_blank">
   <img src="https://img.shields.io/badge/Codolio-000000?style=for-the-badge&logo=codolio&logoColor=white" />
-</a> -->
+</a>
 
 <a href="https://leetcode.com/u/akarshitgupta78/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
